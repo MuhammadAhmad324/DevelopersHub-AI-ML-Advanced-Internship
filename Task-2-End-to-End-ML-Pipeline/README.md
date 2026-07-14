@@ -132,6 +132,6 @@ customer_churn_pipeline.pkl
 
 **Muhammad Ahmad**
 
-Software Engineering Student
+AI/ML Engineering Intern
 
-AI/ML Enthusiast | .NET Developer | Machine Learning
+
